@@ -34,7 +34,7 @@ class _LoginPageState extends State<LoginPage> {
                 right: 0,
                 child: Image.asset(AppImages.person, width: 208, height: 300)),
             Positioned(
-                bottom: size.height * 0.18,
+                bottom: size.height * 0.05,
                 left: 0,
                 right: 0,
                 child: Column(
@@ -49,7 +49,13 @@ class _LoginPageState extends State<LoginPage> {
                           textAlign: TextAlign.center,
                           style: TextStyles.titleHome),
                     ),
-                    SocialLoginButton()
+                    Padding(
+                      padding:
+                          const EdgeInsets.only(left: 40, right: 40, top: 40),
+                      child: SocialLoginButton(onTap: () {
+                        print("Clicou");
+                      }),
+                    )
                   ],
                 ))
           ]),
