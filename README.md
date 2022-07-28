@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="PayFlow" src=".github/payflow-logo.png" width="200px">
+  <img alt="PayFlow" src="https://raw.githubusercontent.com/rocketseat-education/nlw-06-flutter/main/.github/payflow-logo.png" width="200px">
 </p>
 
 <p align="center">
@@ -34,7 +34,7 @@
 <h2 align="center">Layout 🎨</h2>
 
    <p align="center">
-      <img alt="PayFlow" title="PayFlow" src=".github/capa.png" />
+      <img alt="PayFlow" title="PayFlow" src="https://raw.githubusercontent.com/rocketseat-education/nlw-06-flutter/main/.github/capa.png" />
    </p>
 
    <p align="center">
@@ -74,5 +74,5 @@ $ flutter run
 ---
 
    <p align="center">
-      <img alt="NLW" title="PayFlow" src=".github/nlw.png" />
+      <img alt="NLW" title="PayFlow" src="https://raw.githubusercontent.com/rocketseat-education/nlw-06-flutter/main/.github/nlw.png" />
    </p>
